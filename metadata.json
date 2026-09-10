@@ -1,0 +1,6 @@
+{
+  "name": "Game Tournament Hub",
+  "description": "Real-time gaming tournament platform featuring live bracket progression, match scoring, and integrated player registration profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
